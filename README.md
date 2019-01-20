@@ -10,7 +10,7 @@ ArXiv Link: https://arxiv.org/abs/1804.02755
 
 The synthetic ASL data can be downloaded as .mat file from here: https://www.dropbox.com/s/vlmj8ty9oq5naak/synthetic_net_data.mat?dl=0. 
 
-Put the synthetic data inside the Git directory after downloading it.
+Put the synthetic data inside the project folder after downloading it.
 
 Some common ASL related variables are stored in 'synthetic_common_vars.mat' and already availble in the repository.
 
