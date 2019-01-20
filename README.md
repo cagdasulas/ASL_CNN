@@ -1,4 +1,4 @@
-# ASL_CNN
+# DeepASL
 This repository contains the implementation of the DeepASL paper published in MICCAI 2018:
 
 DeepASL: Kinetic Model Incorporated Loss for Denoising Arterial Spin Labeled MRI via Deep Residual Learning
