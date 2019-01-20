@@ -93,6 +93,7 @@ def main():
     model, history = mp.model_train(x_train, y_train, x_val, y_val, params, net_depth=8, filter_dim=3, lambda_val=lambda_val, learning_rate=0.001)
 
     start_time = tt.time()
+    
     # Prediction on the test dataset
     y_pred = mp.model_predict(x_test, y_test, model)
 
